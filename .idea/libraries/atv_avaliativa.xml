@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="atv_avaliativa">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SuperClass.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Atividade_Pratica_Final.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
